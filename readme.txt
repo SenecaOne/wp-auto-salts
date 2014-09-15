@@ -3,7 +3,7 @@ Contributors: ezraverheijen
 Donate link: 
 Tags: salts, keys, security, authentication, wp-config.php, wp config
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 0.9
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
